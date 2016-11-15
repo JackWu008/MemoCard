@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">卡片备忘录</string>
+    <string name="activity_memo_but">保存</string>
+    <string name="menu_memo_delete">刪除</string>
+    <string name="menu_memo_share">分享</string>
+    <string name="activity_memos_ib">添加</string>
+    <string name="menu_memo_choose">全选</string>
+    <string name="activity_memo_picture_but">关闭</string>
+    <string name="activity_image_btn_up">上一张</string>
+    <string name="activity_image_btn_next">下一张</string>
+    <string name="activity_photo_tv">还没有照片，快去添加吧!</string>
+    <string name="menu_memo_invertSelection">反选</string>
+    <string name="menu_exit">退出</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_secure">搜索</string>
+</resources>
